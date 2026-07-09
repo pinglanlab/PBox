@@ -73,6 +73,8 @@
 
 界面截图预览
 
+<img width="760"  alt="界面截图" src="(https://github.com/pinglanlab/PBox/blob/main/screenshot.png)" />
+
 
 
 ## 🚀 快速开始
