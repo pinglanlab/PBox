@@ -61,13 +61,13 @@
 - **降低学习门槛**：初学者可通过工具箱快速接触业界主流安全工具，理解其在实际工作流中的应用。
 - **标准化作业流程**：统一团队工具链，便于协作、知识共享和成果复现。
 
-### 加入社区
-<img width="396" height="396" alt="凭阑实验室开源社区加入群聊二维码" src="https://github.com/user-attachments/assets/f0486b0d-e9a0-438e-a7d7-03e7191658c0" />
-
 ### 下载完整版工具
-通过网盘分享的文件：凭阑红蓝工具箱PBox。其中tool文件夹12G，存放了已下载好的各类安全工具。
+通过网盘分享的文件：凭阑红蓝工具箱PBox。其中tool文件夹12G，存放了已下载好的各类安全工具。网盘资源由第三方赞助提供，请放心下载。
 如果已在Github下载了主程序，则只需要在网盘下载tools文件夹即可，然后将网盘tools文件夹覆盖复制过来。
 链接: https://pan.baidu.com/s/1q5nOUL-HkYllQGGJSoPH1g?pwd=asva
+
+欢迎加入安全社区，提供最新实用安全工具，我们会在验证审核后续版本添加。
+<img width="396" height="396" alt="凭阑实验室开源社区加入群聊二维码" src="https://github.com/user-attachments/assets/f0486b0d-e9a0-438e-a7d7-03e7191658c0" />
 
 ## 🚀 快速开始
 
