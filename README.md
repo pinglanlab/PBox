@@ -1,4 +1,4 @@
-# 🧰 红蓝工具箱 (Redbluebox)
+# 🧰 凭阑红蓝工具箱 (PBox)
 
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://www.microsoft.com/windows)
@@ -13,7 +13,7 @@
 
 ## 🎯 概述
 
-工具箱集成了 **超过百款** 安全工具，覆盖渗透测试全流程，主要分为以下五大类：
+工具箱集成了 **超过四百款** 安全工具，覆盖渗透测试全流程，主要分为以下五大类：
 
 ### 1. WebShell 管理工具
 - 哥斯拉 (Godzilla)
@@ -65,19 +65,19 @@
 
 ### 系统要求
 - Windows 7 / 8 / 10 / 11（64位）
-- 建议 8GB 以上内存，15GB 可用磁盘空间
+- 建议 8GB 以上内存，15GB 可用磁盘空间（其中工具软件占用12G左右）
 
 ### 下载与运行
 1. 下载最新版本的压缩包。
 2. 解压到本地目录（建议路径不含中文或空格）。
-3. 双击 `RedBlueToolbox.exe` 启动工具箱。
+3. 双击 `PBox.vbs` 启动工具箱。(也可以点击“创建桌面快捷方式”创建桌面图标，后续可点击图标启动程序）
 
 > ⚠️ 部分工具可能会被杀毒软件误报，请添加至白名单或暂时关闭实时保护。
 
 ### 从源码运行
 ```bash
-git clone https://github.com/pinglanlab/RedblueBox.git
-cd RedblueBox
+git clone https://github.com/pinglanlab/PBox.git
+cd PBox
 pip install -r requirements.txt
 python main.py
 
