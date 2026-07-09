@@ -1,0 +1,1956 @@
+2026-03-16 01:05:13,230 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1366, in <module>
+    main ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1361, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 202, in __init__
+    for primary in config.SECONDARY_CATEGORIES:
+                   ^^^^^^
+NameError: name 'config' is not defined
+
+2026-03-16 01:05:20,728 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1366, in <module>
+    main ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1361, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 202, in __init__
+    for primary in config.SECONDARY_CATEGORIES:
+                   ^^^^^^
+NameError: name 'config' is not defined
+
+2026-03-16 01:06:34,032 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1366, in <module>
+    main ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1361, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 202, in __init__
+    for primary in config.SECONDARY_CATEGORIES:
+                   ^^^^^^
+NameError: name 'config' is not defined
+
+2026-03-16 10:17:27,873 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1372, in <module>
+    main ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1367, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 224, in __init__
+    self .init_ui ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 264, in init_ui
+    self .title_bar =TitleBar (self )
+                     ^^^^^^^^^^^^^^^^
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\widgets.py", line 177, in __init__
+    self .init_ui ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\widgets.py", line 221, in init_ui
+    notepad_action .triggered .connect (self .parent .open_notepad )
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'open_notepad'. Did you mean: 'open_notebook'?
+
+2026-03-16 10:17:48,587 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1372, in <module>
+    main ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1367, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 224, in __init__
+    self .init_ui ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 264, in init_ui
+    self .title_bar =TitleBar (self )
+                     ^^^^^^^^^^^^^^^^
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\widgets.py", line 177, in __init__
+    self .init_ui ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\widgets.py", line 221, in init_ui
+    notepad_action .triggered .connect (self .parent .open_notepad )
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'open_notepad'. Did you mean: 'open_notebook'?
+
+2026-03-16 10:19:09,832 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1372, in <module>
+    main ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1367, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 224, in __init__
+    self .init_ui ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 264, in init_ui
+    self .title_bar =TitleBar (self )
+                     ^^^^^^^^^^^^^^^^
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\widgets.py", line 177, in __init__
+    self .init_ui ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\widgets.py", line 222, in init_ui
+    notepad_action .triggered .connect (self .parent .open_notepad )
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'open_notepad'. Did you mean: 'open_notebook'?
+
+2026-03-16 10:21:14,008 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1372, in <module>
+    main ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 1367, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 224, in __init__
+    self .init_ui ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\main.py", line 264, in init_ui
+    self .title_bar =TitleBar (self )
+                     ^^^^^^^^^^^^^^^^
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\widgets.py", line 177, in __init__
+    self .init_ui ()
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\widgets.py", line 222, in init_ui
+    notepad_action .triggered .connect (self .parent .open_notepad )
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'open_notepad'. Did you mean: 'open_notebook'?
+
+2026-03-16 19:56:14,486 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,490 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,494 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,499 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,503 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,506 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,509 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,513 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,516 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,520 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,523 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,525 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,527 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,529 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,533 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,536 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,539 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,541 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,544 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,547 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,548 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,552 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,553 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,554 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,556 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,569 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,572 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,573 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,577 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:14,580 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideCenter ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,029 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,031 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,034 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,035 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,038 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,041 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,043 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,046 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,049 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,050 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,052 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,053 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,057 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,059 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,061 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,063 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,066 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,069 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,074 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,077 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,078 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,081 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,083 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,086 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,087 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,095 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,097 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,100 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,102 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:56:41,104 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,435 - ERROR - [log-suppress] suppressed 45 similar logs in last 10s: Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideM
+2026-03-16 19:59:29,435 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,438 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,441 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,444 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,447 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,450 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,453 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,456 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,458 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,461 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,462 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,465 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,467 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,469 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,471 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,473 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,475 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,478 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,479 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,482 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,484 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,485 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,487 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,490 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,492 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,497 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,500 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,503 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,507 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:29,508 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,531 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,534 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,535 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,539 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,540 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,543 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,546 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,547 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,549 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,551 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,552 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,555 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,557 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,559 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,562 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,564 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,566 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,568 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,570 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,572 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,573 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,575 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,576 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,578 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,579 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,591 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,595 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,597 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,599 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-03-16 19:59:34,601 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\CNCVE\子系统\红蓝工具箱\红蓝工具箱\core\modern_grid.py", line 432, in paint
+    cat_text =painter .fontMetrics ().elidedText (cat_text ,Qt .TextElideMode .ElideMiddle ,cat_rect .width ())
+                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TextElideMode' has no attribute 'ElideCenter'
+
+2026-04-17 17:49:44,468 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1873, in <module>
+    main ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1868, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 331, in __init__
+    self .init_ui ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 738, in init_ui
+    self .sub_cat_scroll =QScrollArea ()
+                          ^^^^^^^^^^^
+NameError: name 'QScrollArea' is not defined
+
+2026-04-17 17:49:51,349 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1873, in <module>
+    main ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1868, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 331, in __init__
+    self .init_ui ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 738, in init_ui
+    self .sub_cat_scroll =QScrollArea ()
+                          ^^^^^^^^^^^
+NameError: name 'QScrollArea' is not defined
+
+2026-04-18 14:13:00,149 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1922, in <module>
+    main ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1917, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 332, in __init__
+    self .init_ui ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 776, in init_ui
+    self .sub_cat_layout =QGridLayout (self .sub_cat_container )
+                          ^^^^^^^^^^^
+NameError: name 'QGridLayout' is not defined. Did you mean: 'QVBoxLayout'?
+
+2026-04-18 14:13:14,370 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1922, in <module>
+    main ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1917, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 332, in __init__
+    self .init_ui ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 776, in init_ui
+    self .sub_cat_layout =QGridLayout (self .sub_cat_container )
+                          ^^^^^^^^^^^
+NameError: name 'QGridLayout' is not defined. Did you mean: 'QVBoxLayout'?
+
+2026-04-18 14:13:24,770 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1922, in <module>
+    main ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1917, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 332, in __init__
+    self .init_ui ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 776, in init_ui
+    self .sub_cat_layout =QGridLayout (self .sub_cat_container )
+                          ^^^^^^^^^^^
+NameError: name 'QGridLayout' is not defined. Did you mean: 'QVBoxLayout'?
+
+2026-04-18 14:13:29,677 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1922, in <module>
+    main ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1917, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 332, in __init__
+    self .init_ui ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 776, in init_ui
+    self .sub_cat_layout =QGridLayout (self .sub_cat_container )
+                          ^^^^^^^^^^^
+NameError: name 'QGridLayout' is not defined. Did you mean: 'QVBoxLayout'?
+
+2026-04-18 14:13:36,795 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1922, in <module>
+    main ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1917, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 332, in __init__
+    self .init_ui ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 776, in init_ui
+    self .sub_cat_layout =QGridLayout (self .sub_cat_container )
+                          ^^^^^^^^^^^
+NameError: name 'QGridLayout' is not defined. Did you mean: 'QVBoxLayout'?
+
+2026-04-18 14:14:13,267 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1922, in <module>
+    main ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 1917, in main
+    w =MainWindow ()
+       ^^^^^^^^^^^^^
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 332, in __init__
+    self .init_ui ()
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\main.py", line 776, in init_ui
+    self .sub_cat_layout =QGridLayout (self .sub_cat_container )
+                          ^^^^^^^^^^^
+NameError: name 'QGridLayout' is not defined. Did you mean: 'QVBoxLayout'?
+
+2026-05-08 17:44:26,490 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,497 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,506 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,513 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,518 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,524 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,530 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,535 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,541 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,547 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,554 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,559 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,565 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,571 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,576 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,581 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,586 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,592 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,597 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,604 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,620 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,627 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,632 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,637 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,643 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,648 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,653 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,659 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,663 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:26,668 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,492 - ERROR - [log-suppress] suppressed 565 similar logs in last 10s: Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_i
+2026-05-08 17:44:36,492 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,505 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,511 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,516 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,529 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,536 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,543 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,558 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,564 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,570 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,583 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,588 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,595 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,605 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,612 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,617 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,630 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,635 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,641 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,654 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,659 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,666 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,679 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,684 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,690 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,699 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,705 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,711 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,721 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:44:36,727 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    icon =get_ui_icon (category_root )
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,469 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,474 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,481 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,486 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,491 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,497 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,502 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,507 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,514 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,519 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,525 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,530 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,534 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,540 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,546 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,551 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,555 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,561 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,567 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,571 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,597 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,602 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,608 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,615 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,621 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,626 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,631 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,637 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,642 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-05-08 17:47:24,648 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\BaiduNetdiskDownload\红蓝工具箱\core\modern_grid.py", line 486, in paint
+    painter .setFont (QFont ("Segoe UI",9 ,QFont .Weight .Bold ))
+          ^^^^^^^^^^^
+NameError: name 'get_ui_icon' is not defined
+
+2026-07-08 10:29:38,007 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:29:39,715 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:29:41,148 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:29:41,538 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:29:41,779 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:30:07,705 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:30:08,443 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:30:08,628 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:30:08,851 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:30:10,626 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:30:10,993 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:30:11,179 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:30:11,357 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:30:11,522 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:30:11,738 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:33:30,434 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:33:31,141 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:33:36,361 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:33:37,149 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:33:37,368 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:33:39,171 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2054, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:22,931 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:24,008 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:24,525 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:24,722 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:24,894 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:25,074 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:25,561 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:25,764 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:27,315 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:27,513 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:27,683 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:27,856 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:52,226 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:36:58,084 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:37:53,443 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:37:54,028 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:37:54,592 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:37:54,771 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:37:54,949 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:37:55,154 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
+2026-07-08 10:37:55,384 - ERROR - Uncaught exception:
+Traceback (most recent call last):
+  File "D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\main.py", line 2041, in show_wx_dialog
+    from PyQt6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPixmap
+ImportError: cannot import name 'QPixmap' from 'PyQt6.QtWidgets' (D:\凭阑实验室\产品\红蓝工具箱\凭阑红蓝工具箱PBox\python3\Lib\site-packages\PyQt6\QtWidgets.pyd)
+
