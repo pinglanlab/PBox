@@ -64,6 +64,11 @@
 ### 加入社区
 <img width="396" height="396" alt="凭阑实验室开源社区加入群聊二维码" src="https://github.com/user-attachments/assets/f0486b0d-e9a0-438e-a7d7-03e7191658c0" />
 
+### 下载完整版工具
+通过网盘分享的文件：凭阑红蓝工具箱PBox。其中tool文件夹12G，存放了已下载好的各类安全工具。
+如果已在Github下载了主程序，则只需要在网盘下载tools文件夹即可，然后将网盘tools文件夹覆盖复制过来。
+链接: https://pan.baidu.com/s/1q5nOUL-HkYllQGGJSoPH1g?pwd=asva
+
 ## 🚀 快速开始
 
 ### 系统要求
