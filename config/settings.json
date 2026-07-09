@@ -1,0 +1,68 @@
+{
+  "confirm_exit": true,
+  "theme": "liquid_glass",
+  "font_size": 12,
+  "java8_path": "D:/凭阑实验室/CNCVE/子系统/红蓝工具箱/红蓝工具箱/Java_path/Java_8_win/bin",
+  "java11_path": "D:/凭阑实验室/CNCVE/子系统/红蓝工具箱/红蓝工具箱/Java_path/Java_11_win/bin",
+  "python_path": "D:/凭阑实验室/CNCVE/子系统/红蓝工具箱/红蓝工具箱/python3/python.exe",
+  "exit_mode": "quit",
+  "display_mode": "paged",
+  "cli_python_interpreters": [],
+  "cli_java_interpreters": [],
+  "cli_default_python": "",
+  "cli_default_java": "",
+  "favorite_tools": [
+    [
+      "BurpSuit-Pro",
+      "本地工具/抓包与代理工具"
+    ]
+  ],
+  "recent_tools": [
+    [
+      "AI安全会议",
+      "AI工具/报告写作工具"
+    ],
+    [
+      "Mythos",
+      "AI工具/通用对话工具"
+    ],
+    [
+      "Claude",
+      "AI工具/通用对话工具"
+    ],
+    [
+      "AI安全报告生成",
+      "AI工具/报告写作工具"
+    ],
+    [
+      "云安全文库",
+      "网页工具/文档社区工具"
+    ],
+    [
+      "DirSearch目录探测工具",
+      "本地工具/漏洞扫描与利用工具"
+    ],
+    [
+      "GoPhish",
+      "网页工具/开源工具"
+    ],
+    [
+      "BeforeDawn",
+      "网页工具/开源工具"
+    ],
+    [
+      "BurpSuit",
+      "网页工具/开源工具"
+    ],
+    [
+      "AI代码审计",
+      "AI工具/代码审查工具"
+    ]
+  ],
+  "main_window_geometry": "AdnQywADAAAAAACIAAAAVwAABYUAAAM0AAAAiAAAAFcAAAWFAAADNAAAAAAAAAAABgAAAACIAAAAVwAABYUAAAM0",
+  "main_window_state": "AAAA/wAAAAD9AAAAAAAABP4AAALeAAAABAAAAAQAAAAIAAAACPwAAAAA",
+  "auto_theme_mode": "manual",
+  "custom_bg_path": "",
+  "pro_compact_enhanced": true,
+  "pro_compact_search_scope": "current"
+}
