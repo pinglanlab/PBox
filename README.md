@@ -70,6 +70,10 @@
 
 <img width="396" height="396" alt="凭阑实验室开源社区加入群聊二维码" src="https://github.com/user-attachments/assets/f0486b0d-e9a0-438e-a7d7-03e7191658c0" />
 
+界面截图预览
+
+
+
 ## 🚀 快速开始
 
 ### 系统要求
