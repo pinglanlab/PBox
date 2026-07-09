@@ -75,7 +75,8 @@
 
 <img width="760"  alt="界面截图" src="https://github.com/pinglanlab/PBox/blob/main/screenshot.png" />
 
-
+## 致谢
+本软件参考了众多开源软件，并遵循这些软件的授权声明予以公开全部代码，在此对这些作者表示感谢。
 
 ## 🚀 快速开始
 
@@ -96,6 +97,3 @@ git clone https://github.com/pinglanlab/PBox.git
 cd PBox
 pip install -r requirements.txt
 python main.py
-
-## 🚀 致谢
-本软件参考了众多开源软件，并遵循这些软件的授权声明予以公开全部代码，在此表示感谢。
