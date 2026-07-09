@@ -61,6 +61,9 @@
 - **降低学习门槛**：初学者可通过工具箱快速接触业界主流安全工具，理解其在实际工作流中的应用。
 - **标准化作业流程**：统一团队工具链，便于协作、知识共享和成果复现。
 
+### 加入社区
+<img width="396" height="396" alt="凭阑实验室开源社区加入群聊二维码" src="https://github.com/user-attachments/assets/f0486b0d-e9a0-438e-a7d7-03e7191658c0" />
+
 ## 🚀 快速开始
 
 ### 系统要求
@@ -81,5 +84,4 @@ cd PBox
 pip install -r requirements.txt
 python main.py
 
-### 加入社区
-<img width="396" height="396" alt="凭阑实验室开源社区加入群聊二维码" src="https://github.com/user-attachments/assets/f0486b0d-e9a0-438e-a7d7-03e7191658c0" />
+
