@@ -65,7 +65,7 @@
 通过网盘分享的文件：凭阑红蓝工具箱PBox。其中tool文件夹12G，存放了已下载好的各类安全工具；java_path存放了java运行环境文件；python3存放了python运行环境文件。
 网盘资源由第三方赞助提供，请放心下载。
 如果已在Github下载了主程序，则只需要在网盘下载tools、java_path、python3文件夹即可，然后将网盘这3个文件夹覆盖复制粘贴过来。
-完整文件链接: https://pan.baidu.com/s/1q5nOUL-HkYllQGGJSoPH1g?pwd=asva
+完整文件链接:https://pan.baidu.com/s/1Vg8JuduR-ma57TGvO_TLpA?pwd=cv88 文件解压密码:PBox
 
 欢迎加入安全社区，提供最新实用安全工具，我们会在验证审核后续版本添加。
 
